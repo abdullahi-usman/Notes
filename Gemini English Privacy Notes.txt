@@ -1,0 +1,12 @@
+English Dictionary (Gemini English Dictionary)
+
+
+This application may use google analytics and crashlytics when available,
+for annonymous usage reporting such as theme usage and screen views. This does not
+include any personal, private information words usage or words search.
+It can also report app crashes and errors which will help us to better understand
+and prevent these errors.
+
+So by using this application you agree to this terms and conditions.
+
+Thank you.
