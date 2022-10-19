@@ -1,3 +1,3 @@
 # Notes
 
-Public wriiten notes, such privacy policy, release notes e.t.c
+Public wriiten notes, such as privacy policy, release notes e.t.c
